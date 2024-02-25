@@ -1,1 +1,3 @@
-# Coursera_Databases_SQL_Data_Science_with_Python
+# # Assignment
+Final Assignment: Database Querying using SQLite
+Filenmae: mod5_final_project
